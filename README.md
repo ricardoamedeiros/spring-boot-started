@@ -81,5 +81,5 @@ cd ~/target/generated-sources/archetype
 faça o upload
 
 ```bash 
-mvn deploy -DaltDeploymentRepository=<profile-de-acesso-do-.m2/settings-do-maven>::default::https://<endereco-do-seu-repositorio>/repository/maven-releases/
+mvn deploy -DaltDeploymentRepository=<profile-de-acesso-do-.m2/settings.xml-do-maven>::default::https://<endereco-do-seu-repositorio>/repository/maven-releases/
 ```
