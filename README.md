@@ -66,7 +66,7 @@ Para acessar o projeto digite no navegador o endereço: http://localhost:8080/sw
 
 ## Upload de archetype no nexus
 
-Para gerar o archetype deste projeto execute os comandos abaixo:
+Para gerar novos archetypes como esse execute os comandos abaixo:
 
 ```bash 
 mvn archetype:create-from-project
