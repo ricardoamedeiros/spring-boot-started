@@ -28,7 +28,7 @@ Esse comando faz com que o archetype seja instalado no repositório local do mav
 * Execute o comando: 
 
 ``` console
-mvn archetype:generate -DgroupId=<grupo-do-seu-projeto> -DartifactId=<nome-do-seu-projeto> -Dversion=0.0.1-SNAPSHOT -DpackageName=br.com.salute -DarchetypeGroupId=br.com.salute -DarchetypeArtifactId=spring-boot-started -DarchetypeVersion=0.0.1 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=<grupo-do-seu-projeto> -DartifactId=<nome-do-seu-projeto> -Dversion=<nome-da-sua-versao> -DpackageName=br.com.salute -DarchetypeGroupId=br.com.salute -DarchetypeArtifactId=spring-boot-started-archetype -DarchetypeVersion=0.0.1 -DinteractiveMode=false
 ```
 
 Obs.: Substitua no nome transformacao-digital pelo nome do projeto que será gerado.
