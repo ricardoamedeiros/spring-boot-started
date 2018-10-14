@@ -3,7 +3,7 @@
 #set( $symbol_escape = '\' )
 package ${package}.usuario.mapper;
 
-import ${package}.inteface.mapper.BaseMapper;
+import ${package}.interfaces.mapper.BaseMapper;
 import org.mapstruct.Mapper;
 import org.mapstruct.ReportingPolicy;
 

@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.inteface.mapper;
+package ${package}.interfaces.mapper;
 
 import java.util.List;
 
